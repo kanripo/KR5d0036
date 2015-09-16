@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 眞誥
+#+DATE: 2015-08-28 21:40:40
+#+PROPERTY: BASEEDITION HFL
+#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: JUAN 0
+
+
